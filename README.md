@@ -9,7 +9,7 @@ Middle top cube was created by interpolating on a different axis than the exampl
 Center cube is just the example cube shown to us. 
 Rightmost cube is just the example cube shown to us.
 
-###Lab4: https://drive.google.com/file/d/11JUkv7FZLIFr_n9JUMFYYmusCmMCFDfq/view?usp=sharing 
+## Lab4: https://drive.google.com/file/d/11JUkv7FZLIFr_n9JUMFYYmusCmMCFDfq/view?usp=sharing 
 
 Question Answers
 a. x = 7u
