@@ -21,4 +21,18 @@ Starting from left to right, I simply followed the instructions for the first an
 The rightmost cube simply was changing the textures and adding a different normal map. 
 The center-top cube was created by following instructions. 
 The final cube with the tiled texture was simply doing mod(vUv*2.0, 1.0).
+
+## Lab5: https://drive.google.com/file/d/1Ud0nRmG4grfbBhSNcByay4vMBbyNZBPw/view?usp=sharing
+
+Modifications:
+Skybox - Changed it to a dark purple material. Rather simple, just went to window > rendering > light settings, and then replaced it. 
+Trees - Changed the saturation on the trees so that they more accurately represent the change in colors as the day turns to night.
+Track - Made the track longer by redirecting the turns so that there was an extra portion.
+Environment - Added two stock buildings from the assets. 
+The Sun - Changed the material in order to make it more closely resemble a full moon.
+Basic wheel particles - Followed the tutorial, but then changed the material to make them yellow/gold.
+Smoke particles from exhaust - Created a new particle system which inherits velocity from parent and exists in a global scope rather then local scope.
+Kart speed - Simply increased the speed of the kart to make it a bit more exhilarating.
+
+
 ![](images/theScene.png)
