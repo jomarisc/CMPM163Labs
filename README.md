@@ -1,7 +1,7 @@
 # CMPM163Labs
 ## Lab2: https://drive.google.com/file/d/1UYj_EKKP0A_NvElDIGpYD4HpztFmEBZH/view?usp=sharing
 ## Lab3: https://drive.google.com/file/d/15cITrWVt6_4IxNS_Orm8ayePJYI_XAdb/view?usp=sharing
-
+![](images/theScene.png)
 Lab3 Writeup:
 From left to right: 
 Wireframe cube was made by creating a cube with MeshNormalMaterial and setting the wireframe variable to true.
@@ -34,5 +34,21 @@ Basic wheel particles - Followed the tutorial, but then changed the material to 
 Smoke particles from exhaust - Created a new particle system which inherits velocity from parent and exists in a global scope rather then local scope.
 Kart speed - Simply increased the speed of the kart to make it a bit more exhilarating.
 
+## Lab6:
+![](images/screen.jpg)
+![](images/brushed1.jpg)
 
-![](images/theScene.png)
+Spotlight: Affected by both position and rotation. Lights an area in a cone with a given angle.
+Directional light: Behaves like the sun. Not affected by positon. Lights all objects in a scene given the light's rotation.
+Point light: Behaves like a light bulb, and not affected by rotation. Lights an area around a single point.
+Area light: Only work when using baking a light map. Shines in all directions on one side of a rectangular plane.
+
+I made the material I chose look like real-life object by using the Standard shader and making it metallic. In order to give it a brushed metal look I increased the roughness.
+
+The first textured object uses a cobbled stone texture. 
+The second textured object uses a marble texture.
+
+The skybox is just a space skybox I found and thought was cool.
+
+
+
