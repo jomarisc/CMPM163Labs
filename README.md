@@ -34,7 +34,8 @@ Basic wheel particles - Followed the tutorial, but then changed the material to 
 Smoke particles from exhaust - Created a new particle system which inherits velocity from parent and exists in a global scope rather then local scope.
 Kart speed - Simply increased the speed of the kart to make it a bit more exhilarating.
 
-## Lab6:
+## Lab6: Part 1 (Unity)
+![](images/scene.png)
 ![](images/screen.jpg)
 ![](images/brushed1.jpg)
 
