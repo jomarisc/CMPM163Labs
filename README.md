@@ -51,5 +51,12 @@ The second textured object uses a marble texture.
 
 The skybox is just a space skybox I found and thought was cool.
 
+## Lab7: Part 1 (Unity) https://drive.google.com/file/d/1DfEAvmeajLB5Uw1Ua4acqYVZEXWQF_mh/view
 
+I made this scene using both the mountain range and water and adjusting some properties for each. Then, I simply added more 3D objects to the scene until I got the look I desired, creating different materials along the way.  
 
+My partner also did part one (unity) of this lab.
+He found that the most challenging part of this tutorial was being able to properly adjust the nodes to get the effect he wanted. 
+The most interesting part for him was being able to use a noise map to make realistic terrain.
+
+Note: We didn't help each other for this lab.
