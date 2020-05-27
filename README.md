@@ -60,3 +60,15 @@ He found that the most challenging part of this tutorial was being able to prope
 The most interesting part for him was being able to use a noise map to make realistic terrain.
 
 Note: We didn't help each other for this lab.
+
+## Lab8: Part 1 (Unity) 
+![](images/cityTut.png)
+![](images/walled.png)
+![](images/kowloon.jpg)
+
+My inspiration for this project was a city so crowded that it seemed as if it was all one big apartment complex. The changes it inspired were simple, just create an extra loop in which the buildings would be built upwards. 
+
+My partner created a rural village. I really liked how the landscape generated felt as if  
+My partner taught me that you can combine different scales of objects to crete interesting combinations.
+
+Note: We didn't help each other for this lab.
