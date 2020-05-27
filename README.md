@@ -68,7 +68,7 @@ Note: We didn't help each other for this lab.
 
 My inspiration for this project was a city so crowded that it seemed as if it was all one big apartment complex. The changes it inspired were simple, just create an extra loop in which the buildings would be built upwards. 
 
-My partner created a rural village. I really liked how the landscape generated felt as if  
+My partner created a rural village. I really liked how the landscape generated felt as if one was looking at the countryside.
 My partner taught me that you can combine different scales of objects to crete interesting combinations.
 
 Note: We didn't help each other for this lab.
